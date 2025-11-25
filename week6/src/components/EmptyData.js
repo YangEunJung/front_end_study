@@ -1,0 +1,8 @@
+ function EmptyData() {
+    return (
+        <div>
+            <p>Todo 데이터가 없습니다.</p>
+        </div>
+    )
+ }
+ export default EmptyData
